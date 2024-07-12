@@ -1,28 +1,31 @@
 # Terms of Service (ToS)
-Effective Date: 25. June 2024
+## Effective Date: 25 June 2024
 
 Please read these Terms of Service ("ToS") carefully before using the Peak mobile application ("App") provided by Omar (referred to as "Developer"). By using the App, you agree to be bound by these ToS.
 
-Use and Restrictions
-The App is intended for personal use only and should not be used for any illegal activities.
-Users are responsible for the accuracy and legality of the data they input into the App.
-Users must comply with all applicable laws and regulations while using the App.
-Subscription-Based Services
+### Use and Restrictions
+- The App is intended for personal use only and should not be used for any illegal activities.
+- Users are responsible for the accuracy and legality of the data they input into the App.
+- Users must comply with all applicable laws and regulations while using the App.
+
+### Subscription-Based Services
 The App offers subscription-based services with different tiers:
+- **Free Tier:** Access to AI services limited to three uses only.
+- **Monthly Subscription:** Provides unlimited use for $6.99 per month.
+- **Annual Subscription:** Provides unlimited use for $59.99 per year, offering a discounted rate compared to the monthly subscription.
 
-Free Tier: Access to AI services limited to three uses only.
-Monthly Subscription: Provides unlimited use for $6.99 per month.
-Annual Subscription: Provides unlimited use for $59.99 per year, offering a discounted rate compared to the monthly subscription.
-Pricing and Renewal
-Subscription services are auto-renewable and billed monthly or annually as per the chosen tier.
-Users can cancel their subscription at any time; the service will continue until the end of the current billing cycle.
-Upgrades to a higher tier during an active subscription period will require users to pay only the price difference, and the changes will take effect immediately.
-Downgrades to a lower tier will take effect after the completion of the current billing cycle.
-App Store Terms
-The App is subject to the standard terms and conditions set forth by the app store from which it was downloaded (e.g., Apple App Store).
-By using the App, you acknowledge that you have read, understood, and agreed to these ToS.
+### Pricing and Renewal
+- Subscription services are auto-renewable and billed monthly or annually as per the chosen tier.
+- Users can cancel their subscription at any time; the service will continue until the end of the current billing cycle.
+- Upgrades to a higher tier during an active subscription period will require users to pay only the price difference, and the changes will take effect immediately.
+- Downgrades to a lower tier will take effect after the completion of the current billing cycle.
 
-If you have any questions or concerns regarding these ToS, please contact us at omar9a@proten.me.
+### App Store Terms
+- The App is subject to the standard terms and conditions set forth by the app store from which it was downloaded (e.g., Apple App Store).
+- By using the App, you acknowledge that you have read, understood, and agreed to these ToS.
+
+### Contact Information
+If you have any questions or concerns regarding these ToS, please contact us at: omar9a@proten.me.
 
 
 # Privacy Policy
