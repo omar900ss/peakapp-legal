@@ -67,35 +67,3 @@ This Privacy Policy ("Policy") explains how Omar (referred to as "Developer") co
 ### Contact Information
 If you have any questions or concerns regarding this Policy, please contact us at: omar9a@proten.me.
 
-
-# End User License Agreement (EULA)
-## Effective Date: 25 June 2024
-
-This End User License Agreement ("Agreement") is a legal agreement between you (referred to as "User" or "you") and Omar (referred to as "Developer") governing the use of the Peak mobile application ("App").
-
-### Permitted Use
-- By installing, accessing, or using the App, you agree to the following terms and conditions.
-- The App is provided solely for personal, non-commercial use.
-- You agree not to use the App for any illegal activities or in violation of any applicable laws or regulations.
-
-### Limitation of Liability
-- To the maximum extent permitted by law, the Developer shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of or relating to the use or inability to use the App.
-- The Developer does not guarantee the accuracy, completeness, or reliability of the information provided by the App.
-
-### Intellectual Property
-- The App, including all its content, features, and functionality, is owned by the Developer and is protected by intellectual property laws.
-- You acknowledge that you have no ownership or intellectual rights in the App, other than the right to use the App in accordance with this Agreement.
-
-### Dispute Resolution
-- Any dispute, claim, or controversy arising out of or relating to this Agreement or the use of the App shall be resolved through negotiation and, if necessary, through binding arbitration conducted by a mutually agreed-upon arbitrator.
-
-### Miscellaneous
-- This Agreement constitutes the entire agreement between you and the Developer regarding the use of the App.
-- If any provision of this Agreement is found to be invalid or unenforceable, it shall not affect the validity or enforceability of the remaining provisions.
-- The failure of the Developer to exercise any right or enforce any provision of this Agreement shall not constitute a waiver of such right or provision.
-
-### Acknowledgment
-- By installing, accessing, or using the App, you acknowledge that you have read, understood, and agreed to be bound by this EULA.
-
-### Contact Information
-If you have any questions or concerns regarding this Agreement, please contact us at: omar9a@proten.me.
